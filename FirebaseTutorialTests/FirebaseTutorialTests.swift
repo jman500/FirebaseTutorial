@@ -8,6 +8,8 @@
 
 import XCTest
 
+@testable import FirebaseTutorial
+
 class FirebaseTutorialTests: XCTestCase {
     
     override func setUp() {
