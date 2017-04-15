@@ -27,10 +27,14 @@ PODS:
     - GoogleToolboxForMac/NSString+URLArguments (= 2.1.1)
   - GoogleToolboxForMac/NSString+URLArguments (2.1.1)
   - GTMSessionFetcher/Core (1.1.9)
+  - ReSwift (3.0.0)
+  - Swinject (2.0.0)
 
 DEPENDENCIES:
   - Firebase/Auth
   - Firebase/Core
+  - ReSwift
+  - Swinject (~> 2.0.0)
 
 SPEC CHECKSUMS:
   Firebase: 2b1cdfba1cda8589f32904a697cc753322bff9d8
@@ -40,7 +44,9 @@ SPEC CHECKSUMS:
   FirebaseInstanceID: 2d0518b1378fe9d685ef40cbdd63d2fdc1125339
   GoogleToolboxForMac: 8e329f1b599f2512c6b10676d45736bcc2cbbeb0
   GTMSessionFetcher: 5c046c76a1f859bc9c187e918f18e4fc7bb57b5e
+  ReSwift: f0255f4b4f2dacd12c5d97d34d13fc5dad6d6371
+  Swinject: 2e964a80d70ab09b3949c99032711f89147bfd60
 
-PODFILE CHECKSUM: 6ec684690fa5295a728193219020c2ec99be0edb
+PODFILE CHECKSUM: 2a717b906ea708460a845bea8d968564a03b0122
 
 COCOAPODS: 1.2.0
